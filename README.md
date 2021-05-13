@@ -1,2 +1,2 @@
-# White
+# White - Start Game (v0.1)
 developing...
